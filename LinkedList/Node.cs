@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LinkedList
+namespace LinkedListDS
 {
    public class Node
     {

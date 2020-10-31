@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListDS", "LinkedListDS.csproj", "{DF474D3E-D774-403F-8C58-5C2C71417236}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListTest", "..\LinkedListTest\LinkedListTest.csproj", "{5482B83C-C2F4-4F3F-9DF0-581FF5C26E06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListTest", "..\LinkedListTest\LinkedListTest.csproj", "{5482B83C-C2F4-4F3F-9DF0-581FF5C26E06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

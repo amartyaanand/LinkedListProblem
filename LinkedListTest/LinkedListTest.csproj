@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LinkedList\LinkedListDS.csproj" />
+    <ProjectReference Include="..\LinkedList\LinkedListDS.csproj" />
   </ItemGroup>
 
 </Project>
